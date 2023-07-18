@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SammyCode002
+- 👋 Hi, I’m Sammy
 - 👀 I’m interested in ... Video Games, Technology, Anime, Art, Digital Illustrations, Concept Designs, Virtual Reality, Fitness.
-- 🌱 I’m currently learning ... Programming, Web Development, Android App Development, The Cloud, Cybersecurity and AI.
-- 💞️ I’m looking to collaborate on ... Whatever I'm interested in.
+- 🌱 I’m currently learning ... Node.Js, JavaScript, HTML/CSS (Web Development) Python, The Cloud, Cybersecurity and AI.
+- 💞️ I’m currently working... On my own website (sort of like a portfolio)
 - 📫 How to reach me ... LinkedIn or Facebook
 
 <!---
