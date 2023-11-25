@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Sammy
-- 👀 I’m interested in ... Video Games, Teach Field, Cybersecurity, Data Science, Machine Learning,  Anime, Art, Virtual Reality, Fitness.
+- 👀 I’m interested in ... Computer Science, Data Science, Machine Learning, Video Games, Anime, Art, Virtual Reality, Fitness.
 - 🌱 I’m currently learning ... Node.Js, React.js JavaScript, HTML/CSS (Web Development), Java, Python, The Cloud, Cybersecurity and Machine Learning.
 - 💞️ I’m currently working... On my own website & other projects.
+- I'm currently majoring in Computer Science
+- I'm an Intern at Oceanit (Wave dynamics, Topography, Bathymetry)
 - 📫 How to reach me ... LinkedIn or Facebook
 
 <!---
