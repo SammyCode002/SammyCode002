@@ -4,7 +4,7 @@
 - 💞️ I’m currently working on...Climate Change Tool Kit,Fire Modeling (MFR) and my personal website.
 - I'm currently majoring in Computer Science
 - I'm currently attending The University of Hawaii
-- I'm an Intern at Oceanit (Wave dynamics, Topography, Bathymetry)
+- I'm an Intern at Oceanit (Wave dynamics, Topography, Bathymetry) ( https://www.oceanit.com/ )
 - Intern - Data Science for MAUI FIRE RESEARCH - RAPID / NSF ( http://maui-fire.ikewai.org/ )
 - 📫 How to reach me ... LinkedIn or Facebook
 <!---
