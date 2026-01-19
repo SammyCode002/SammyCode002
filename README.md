@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sammy
-- 👀 I’m interested in ... Information Technology - Computer Science, Data Science, Machine Learning, Video Games, Anime, Art, Virtual Reality.
-- 🌱 I’m currently learning ...ArcGis, MatLab, VAPOR, C++, React.js, JavaScript, Java, Python, Jupyter Notebook, Cybersecurity and Machine Learning.
+- 👀 I’m interested in ... Information Technology - Computer Science, Data Science, Machine Learning, Video Games, Anime, Art.
+- 🌱 I’m currently learning ...Cybersecurity, ArcGis, MatLab, Python.
 - 💞️ I’m currently working on...Climate Change Tool Kit, Fire Modeling.
 - I'm currently majoring in Computer Science Cybersecurity.
 - Graduated at University of Hawaii 2025 with AS computer science
