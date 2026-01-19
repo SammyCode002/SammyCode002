@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...ArcGis, MatLab, VAPOR, C++, React.js, JavaScript, Java, Python, Jupyter Notebook, Cybersecurity and Machine Learning.
 - 💞️ I’m currently working on...Climate Change Tool Kit, Fire Modeling.
 - I'm currently majoring in Computer Science Cybersecurity.
+- Graduated at University of Hawaii 2025 with AS computer science
 - I'm currently attending Oregon State University.
 - I'm an Intern at Oceanit - Coastal Engineering ( https://www.oceanit.com/ )
 - REU Intern at the University of Hawaii System Cyberinfrastructure.
