@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sammy
 - 👀 I’m interested in ... Information Technology - Computer Science, Data Science, Machine Learning, Video Games, Anime, Art.
+- Currently working at State of Hawaii Department of Education.
 - 🌱 I’m currently learning ...Cybersecurity, ArcGis, MatLab, Python.
 - 💞️ I’m currently working on...Climate Change Tool Kit, Fire Modeling.
 - I'm currently majoring in Computer Science Cybersecurity.
