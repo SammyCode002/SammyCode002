@@ -1,15 +1,45 @@
-- 👋 Hi, I’m Sammy
-- 👀 I’m interested in ... Information Technology - Computer Science, Data Science, Machine Learning, Video Games, Anime, Art.
-- IT Specialist at State of Hawaii Department of Education.
-- 🌱 I’m currently learning ...Cybersecurity, ArcGis, MatLab, Python.
-- 💞️ I’m currently working on...Climate Change Tool Kit, Fire Modeling.
-- I'm currently majoring in Computer Science Cybersecurity.
-- Graduated at University of Hawaii 2025 with AS computer science
-- I'm currently attending Oregon State University.
-- I'm an Intern at Oceanit - Coastal Engineering ( https://www.oceanit.com/ )
-- REU Intern at the University of Hawaii System Cyberinfrastructure.
-- 📫 How to reach me ... LinkedIn
-<!---
-SammyCode002/SammyCode002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Aloha 🤙 My name is SammY
+
+**IT Specialist & Cybersecurity Student** based in Hawaiʻi 🌴
+
+---
+
+**Currently developing:**
+
+🔐 [Vault Password Manager](https://github.com/SammyCode002/vault-password-manager) — Desktop password manager with AES encryption & PBKDF2 key derivation
+
+### About Me
+
+- 🏫 IT Specialist at **State of Hawaiʻi Department of Education**
+- 🎓 Graduated from **University of Hawaiʻi** (A.S. Computer Science, 2025)
+- 📚 Currently attending **Oregon State University** — B.S. Computer Science, Cybersecurity Focus
+- 🌊 Former Coastal Engineering Intern at [Oceanit](https://www.oceanit.com/)
+- 🔬 Former REU Intern at **University of Hawaiʻi System Cyberinfrastructure**
+- 🔥 Past research: Climate Change Tool Kit & Fire Modeling
+- 🌱 Currently learning: Cybersecurity, ArcGIS, MATLAB, Python
+- 🎮 Interests: Video Games, Anime, Art
+
+### Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SammyCode002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyCode002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+### Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samdameg/)
