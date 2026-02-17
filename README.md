@@ -16,7 +16,7 @@
 - 🌊 Former Coastal Engineering Intern at [Oceanit](https://www.oceanit.com/)
 - 🔬 Former REU Intern at **University of Hawaiʻi System Cyberinfrastructure**
 - 🔥 Past research: Climate Change Tool Kit & Fire Modeling
-- 🌱 Currently learning: Cybersecurity, ArcGIS, MATLAB, Python
+- 🌱 Currently focused on **Cybersecurity**
 - 🎮 Interests: Video Games, Anime, Art
 
 ### Skills
