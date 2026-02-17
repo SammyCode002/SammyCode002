@@ -11,6 +11,7 @@
 ### About Me
 
 - 🏫 IT Specialist at **State of Hawaiʻi Department of Education**
+- 🧑‍🏫 STEM Instructor for **Verizon Innovative Learning at UHMC**
 - 🎓 Graduated from **University of Hawaiʻi** (Computer Science, 2025)
 - 📚 Currently attending **Oregon State University** — Computer Science, Cybersecurity Focus
 - 🌊 Former Coastal Engineering Intern at [Oceanit](https://www.oceanit.com/)
