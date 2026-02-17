@@ -11,8 +11,8 @@
 ### About Me
 
 - 🏫 IT Specialist at **State of Hawaiʻi Department of Education**
-- 🎓 Graduated from **University of Hawaiʻi** (A.S. Computer Science, 2025)
-- 📚 Currently attending **Oregon State University** — B.S. Computer Science, Cybersecurity Focus
+- 🎓 Graduated from **University of Hawaiʻi** (Computer Science, 2025)
+- 📚 Currently attending **Oregon State University** — Computer Science, Cybersecurity Focus
 - 🌊 Former Coastal Engineering Intern at [Oceanit](https://www.oceanit.com/)
 - 🔬 Former REU Intern at **University of Hawaiʻi System Cyberinfrastructure**
 - 🔥 Past research: Climate Change Tool Kit & Fire Modeling
