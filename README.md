@@ -6,7 +6,11 @@
 
 **Currently developing:**
 
+**Currently developing:**
+
 🔐 [Vault Password Manager](https://github.com/SammyCode002/vault-password-manager) — Desktop password manager with AES encryption & PBKDF2 key derivation
+
+🛡 [Bot Detector](https://github.com/SammyCode002/bot-detector) — ML-powered social media bot detection with Flask dashboard
 
 ### About Me
 
