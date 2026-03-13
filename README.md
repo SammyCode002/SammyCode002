@@ -4,18 +4,20 @@
 
 ---
 
-**Currently developing:**
+Currently developing:
 
-🔐 [Vault Password Manager](https://github.com/SammyCode002/vault-password-manager) — Desktop password manager with AES encryption & PBKDF2 key derivation
+🔥 __Maui LFMC__ — Mapping wildfire risk in Maui County using satellite data & the Galileo foundation model (NASA Harvest)
 
-🛡 [Bot Detector](https://github.com/SammyCode002/bot-detector) — ML-powered social media bot detection with Flask dashboard
+🔐 __Vault Password Manager__ — Desktop password manager with AES encryption & PBKDF2 key derivation
+
+🛡 __Bot Detector__ — ML-powered social media bot detection with Flask dashboard
 
 ### About Me
 
 - 🏫 IT Specialist at **State of Hawaiʻi Department of Education**
 - 🧑‍🏫 STEM Instructor for **Verizon Innovative Learning at UHMC**
 - 🎓 Graduated from **University of Hawaiʻi** (Computer Science, 2025)
-- 📚 Currently attending **Oregon State University** — Computer Science, Cybersecurity Focus
+- 📚 Currently attending **Oregon State University** - Computer Science, Cybersecurity Focus
 - 🌊 Former Coastal Engineering Intern at [Oceanit](https://www.oceanit.com/)
 - 🔬 Former REU Intern at **University of Hawaiʻi System Cyberinfrastructure**
 - 🔥 Past research: Climate Change Tool Kit & Fire Modeling
