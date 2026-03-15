@@ -10,7 +10,6 @@ Currently developing:
 
 🔐 __Vault Password Manager__ — Desktop password manager with AES encryption & PBKDF2 key derivation
 
-🛡 __Bot Detector__ — ML-powered social media bot detection with Flask dashboard
 
 ### About Me
 
