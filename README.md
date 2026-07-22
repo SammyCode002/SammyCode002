@@ -49,7 +49,7 @@ Hi, I'm Sam
 - <img height="14" src="https://cdn.simpleicons.org/kalilinux/00d4d4" /> **CS Student** · Oregon State University (Cybersecurity Concentration)
 - <img height="14" src="https://cdn.simpleicons.org/googlescholar/00d4d4" /> **Honors** · University of Hawaiʻi Maui College, Information & Computer Sciences (2025)
 - <img height="14" src="https://cdn.simpleicons.org/bookstack/00d4d4" /> **NACCE STEM Achievers Instructor** · University of Hawaiʻi Maui College
-- <img height="14" src="https://cdn.simpleicons.org/nasa/00d4d4" /> **Research** · NASA ACRES (live fuel moisture) · NSF RAPID wildfire recovery · Cyberinfrastructure REU · Oceanit coastal engineering
+Cyberinfrastructure REU · Oceanit coastal engineering
 - <img height="14" src="https://cdn.simpleicons.org/googleearth/00d4d4" /> Based in **Maui, Hawaiʻi**
 - <img height="14" src="https://cdn.simpleicons.org/steam/00d4d4" /> Into video games, anime, and art
 
@@ -100,7 +100,7 @@ Hi, I'm Sam
 
 | Project | Current Phase |
 |---|---|
-| **NASA ACRES** | Coming Soon |
+
 
 ---
 
