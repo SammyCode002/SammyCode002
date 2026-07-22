@@ -47,9 +47,6 @@ Hi, I'm Sam
 
 - <img height="14" src="https://cdn.simpleicons.org/apple/00d4d4" /> **IT Specialist** · Hawaii State Department of Education
 - <img height="14" src="https://cdn.simpleicons.org/kalilinux/00d4d4" /> **CS Student** · Oregon State University (Cybersecurity Concentration)
-- <img height="14" src="https://cdn.simpleicons.org/googlescholar/00d4d4" /> **Honors** · University of Hawaiʻi Maui College, Information & Computer Sciences (2025)
-- <img height="14" src="https://cdn.simpleicons.org/bookstack/00d4d4" /> **NACCE STEM Achievers Instructor** · University of Hawaiʻi Maui College
-Cyberinfrastructure REU · Oceanit coastal engineering
 - <img height="14" src="https://cdn.simpleicons.org/googleearth/00d4d4" /> Based in **Maui, Hawaiʻi**
 - <img height="14" src="https://cdn.simpleicons.org/steam/00d4d4" /> Into video games, anime, and art
 
